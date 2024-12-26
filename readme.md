@@ -18,11 +18,11 @@
 
 Follow these steps to download, configure, and run this project.
 
-### Prerequisites
+### 🖥️ Prerequisites
 Ensure the following are installed on your system:
-1. **XAMPP/WAMP/MAMP/LAMP**: A local PHP server with MySQL support
-2. **Git**: To clone the repository
-3. **Web Browser**: Chrome, Firefox, or Edge
+ 🔹 **XAMPP/WAMP/MAMP/LAMP**: A local PHP server with MySQL support
+ 🔹 **Git**: To clone the repository
+ 🔹 **Web Browser**: Chrome, Firefox, or Edge
 
 ---
 
@@ -53,19 +53,19 @@ Ensure the following are installed on your system:
 
 1. Start the Local Server
    Launch XAMPP/WAMP/MAMP/LAMP and start:
-      -Apache
-      -MySQL
+      🔹Apache
+      🔹MySQL
 2. Access the Application
    Open your browser and go to:
-      - http://localhost/Pay-Trackr
+      🔹 http://localhost/Pay-Trackr
 3. Login Credentials
    *Admin*
-    username: admin
-    password: admin123
+    🔹username: admin
+    🔹password: admin123
 
     *Stuff*
-    username: Hamim
-    password: hamim
+    🔹username: Hamim
+    🔹password: hamim
     [you can add new stuff by logging admin]
 
 ---
@@ -73,15 +73,15 @@ Ensure the following are installed on your system:
 
 ## 🛠️Technologies Used
 
-    -PHP: Backend logic
-    -MySQL: Database management
-    -HTML/CSS/JS: Frontend design
-    -Bootstrap: Responsive design framework
+    🔹PHP: Backend logic
+    🔹MySQL: Database management
+    🔹HTML/CSS/JS: Frontend design
+    🔹Bootstrap: Responsive design framework
 
 ---
 
 ## 📧 Contact
     For queries or support:
-      - Email: asikifthakerhamim75@gmail.com
+      🔹Email: asikifthakerhamim75@gmail.com
 
 
