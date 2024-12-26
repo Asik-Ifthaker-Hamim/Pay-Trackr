@@ -61,10 +61,12 @@ Ensure the following are installed on your system:
       🔹Apache
    
       🔹MySQL
+   
 3. Access the Application
    Open your browser and go to:
       🔹 http://localhost/Pay-Trackr
 4. Login Credentials
+   
    *Admin*
    
     🔹username: admin
