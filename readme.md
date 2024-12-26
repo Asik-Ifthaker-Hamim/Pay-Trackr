@@ -43,6 +43,7 @@ Ensure the following are installed on your system:
 4. Setup the Database
    Open your browser and go to:
      - http://localhost/phpmyadmin
+   
    Create a new database
      - payroll
 5. Import the 'payroll.sql' file:
@@ -57,17 +58,20 @@ Ensure the following are installed on your system:
 1. Start the Local Server
    Launch XAMPP/WAMP/MAMP/LAMP and start:
       🔹Apache
+   
       🔹MySQL
-2. Access the Application
+3. Access the Application
    Open your browser and go to:
       🔹 http://localhost/Pay-Trackr
-3. Login Credentials
+4. Login Credentials
    *Admin*
     🔹username: admin
+   
     🔹password: admin123
 
     *Stuff*
     🔹username: Hamim
+   
     🔹password: hamim
     [you can add new stuff by logging admin]
 
