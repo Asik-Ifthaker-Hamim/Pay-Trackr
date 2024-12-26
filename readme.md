@@ -1,10 +1,10 @@
 # **💼 Pay-Trackr 🕒**
 
-**Pay-Trackr** is a payroll and attendance management system designed to streamline employee and payroll operations for organizations. 
+**Pay-Trackr** is a modern payroll and attendance management system designed to make managing employees and payroll operations seamless and efficient.
 
 ---
 
-##📌 Features
+## 📌 Features
 - 📋 Employee attendance tracking
 - 💼 Payroll generation
 - 🏢 Manage employees, departments, positions, allowances, and deductions
