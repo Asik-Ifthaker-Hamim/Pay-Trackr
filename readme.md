@@ -1,14 +1,14 @@
-# Pay-Trackr
+🚀# Pay-Trackr
 
 **Pay-Trackr** is a payroll and attendance management system designed to streamline employee and payroll operations for organizations. 
 
 ---
 
-## Features
-- Employee attendance tracking
-- Payroll generation
-- Manage employees, departments, positions, allowances, and deductions
-- Role-based access:
+📌## Features
+- 📋 Employee attendance tracking
+- 💼 Payroll generation
+- 🏢 Manage employees, departments, positions, allowances, and deductions
+- 🔐 Role-based access:
   - **Admin**: Full access
   - **Staff**: Restricted access for attendance only
 
@@ -30,7 +30,7 @@ Ensure the following are installed on your system:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/Pay-Trackr.git
+   git clone https://github.com/Asik-Ifthaker-Hamim/Pay-Trackr.git
 2. Navigate to the Project Directory
    cd Pay-Trackr
 3. Copy Project Files to Your Server
