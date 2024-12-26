@@ -81,6 +81,7 @@ Ensure the following are installed on your system:
     🔹username: Hamim
    
     🔹password: hamim
+   
     [you can add new stuff by logging admin]
 
 ---
