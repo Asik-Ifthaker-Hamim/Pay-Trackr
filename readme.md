@@ -1,4 +1,4 @@
-#🚀 Pay-Trackr
+🚀# Pay-Trackr
 
 **Pay-Trackr** is a payroll and attendance management system designed to streamline employee and payroll operations for organizations. 
 
