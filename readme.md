@@ -20,8 +20,11 @@ Follow these steps to download, configure, and run this project.
 
 ### 🖥️ Prerequisites
 Ensure the following are installed on your system:
+
  🔹 **XAMPP/WAMP/MAMP/LAMP**: A local PHP server with MySQL support
+ 
  🔹 **Git**: To clone the repository
+ 
  🔹 **Web Browser**: Chrome, Firefox, or Edge
 
 ---
