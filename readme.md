@@ -38,18 +38,18 @@ Ensure the following are installed on your system:
    ```bash
    cd Pay-trackr
 4. Copy Project Files to Your Server
-   Place the `Pay-Trackr` folder in your web server's root directory:
-      XAMPP: htdocs/
-      WAMP: www/
+   Place the **`Pay-Trackr`** folder in your web server's root directory:
+      **XAMPP**: htdocs/
+      **WAMP**: www/
 5. Setup the Database
    Open your browser and go to:
      - http://localhost/phpmyadmin
    
 6. Create a new database
-     - payroll
-7. Import the 'payroll.sql' file:
-    - Navigate to the 'database' folder in the project directory.
-    - Import it using PHPMyAdmin.
+     - **payroll**
+7. Import the *'payroll.sql'* file:
+    - Navigate to the *'database'* folder in the project directory.
+    - Import it using **PHPMyAdmin**.
 
 ---
 
@@ -65,16 +65,18 @@ Ensure the following are installed on your system:
    
 3. Access the Application
    Open your browser and go to:
-      🔹 http://localhost/Pay-Trackr
-4. Login Credentials
    
-   *Admin*
+      🔹 http://localhost/Pay-Trackr
+   
+5. Login Credentials
+   
+   **Admin**
    
     🔹username: admin
    
     🔹password: admin123
 
-    *Stuff*
+    **Stuff**
    
     🔹username: Hamim
    
