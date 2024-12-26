@@ -1,4 +1,4 @@
-🚀 <span style="font-size:30px;">Pay-Trackr</span>
+💼 <span style="font-size:30px;">Pay-Trackr</span> 🕒
 
 **Pay-Trackr** is a payroll and attendance management system designed to streamline employee and payroll operations for organizations. 
 
