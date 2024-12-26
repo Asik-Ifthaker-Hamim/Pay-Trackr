@@ -14,7 +14,7 @@
 
 ---
 
-## Getting Started
+## 💡 Getting Started
 
 Follow these steps to download, configure, and run this project.
 
@@ -26,7 +26,7 @@ Ensure the following are installed on your system:
 
 ---
 
-## Installation
+## ⚙️ Installation
 
 1. **Clone the Repository**
    ```bash
@@ -49,7 +49,7 @@ Ensure the following are installed on your system:
 ---
 
 
-## Running the Project
+## ▶️ Running the Project
 
 1. Start the Local Server
    Launch XAMPP/WAMP/MAMP/LAMP and start:
@@ -71,7 +71,7 @@ Ensure the following are installed on your system:
 ---
 
 
-## Technologies Used
+## 🛠️Technologies Used
 
     -PHP: Backend logic
     -MySQL: Database management
@@ -80,7 +80,7 @@ Ensure the following are installed on your system:
 
 ---
 
-## Contact
+## 📧 Contact
     For queries or support:
       - Email: asikifthakerhamim75@gmail.com
 
