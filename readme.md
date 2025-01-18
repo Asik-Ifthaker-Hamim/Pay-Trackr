@@ -36,7 +36,7 @@ Ensure the following are installed on your system:
    git clone https://github.com/Asik-Ifthaker-Hamim/Pay-Trackr.git
 2. Navigate to the Project Directory
    ```bash
-   cd Pay-trackr
+   cd Pay-Trackr
 4. Copy Project Files to Your Server
    Place the **`Pay-Trackr`** folder in your web server's root directory:
      - **XAMPP**: htdocs/
